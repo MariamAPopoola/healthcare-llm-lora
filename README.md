@@ -67,7 +67,7 @@ Training and validation loss both decrease steadily across the five epochs,
 with validation loss falling sharply early and then stabilizing — and no
 upward drift, i.e. no sign of overfitting.
 
-![Loss curve](results/loss_curve.png)
+loss_curve.png
 
 | Epoch | Train loss | Val loss |
 |:---:|:---:|:---:|
