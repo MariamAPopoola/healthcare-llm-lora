@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+results/checkpoints/
+results/trained_adapter/
+*.safetensors
+.DS_Store
+venv/
+.env
